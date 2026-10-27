@@ -109,3 +109,4 @@ A pasta [prompts/](prompts) guarda só o que é sobre **uso de IA**: o template 
 A pasta [entregas/](entregas) guarda os artefatos de entrega que não são sobre IA: os rascunhos de layout de cada dashboard (`.jpg` ou `.png`) e a justificativa das métricas do Dashboard 2. Veja [entregas/README.md](entregas/README.md) para o detalhe de cada arquivo e o checklist por aula. Não coloque esses arquivos no `.gitignore`.
 # Streamlit-AVD
 # Streamlit-AVD
+# Streamlit-AVD
