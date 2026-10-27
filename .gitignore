@@ -243,5 +243,5 @@ data/raw/*
 !data/raw/.gitkeep
 
 # Skills do Streamlit (symlinks para o venv; cada aluno roda `streamlit skills`)
-.claude/skills/
+.claude/
 .agents/skills/

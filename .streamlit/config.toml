@@ -6,14 +6,14 @@ paddingTop = "0.0rem"     # espaço abaixo da barra do topo (valor entre aspas)
 # font = "sans serif"     # "sans serif", "serif" ou "monospace"
 
 [theme.light]
-primaryColor = "#c1121f"            # cor de destaque (widgets, links): mesmo vermelho dos histogramas
+primaryColor = "#5b3f7a"            # cor de destaque (widgets, links): mesmo roxo dos histogramas
 backgroundColor = "#ffffff"         # fundo da página
 secondaryBackgroundColor = "#f0f2f6"  # fundo da sidebar e de widgets
 textColor = "#31333f"               # cor do texto
 borderColor = "#d5dae5"
 
 [theme.dark]
-primaryColor = "#c1121f"
+primaryColor = "#9b7fc4"
 backgroundColor = "#0e1117"
 secondaryBackgroundColor = "#262730"
 textColor = "#fafafa"
